@@ -42,8 +42,8 @@
 
 <p>Как решала(-а): Агрегировала сырые данные, чтобы получить сводные показатели для расчета юнит-экономики. Рассчитала показатели Retention, LTR, CAC и Fixed costs, маржинальность. Расчитала какие необходимо внести изменения в показатели, чтобы выйти на маржинальность 25%
 
-> <a href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект</a>
- (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a [href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x">Ссылка на проект](https://docs.google.com/spreadsheets/d/1mBuNMJ2KZyPHqt0LQIIxnq0En03MsUmlQ_immv2bYMY/edit?usp=sharing)</a>
+
  
 <p>Выводы (итоги):<p>
 <ol>
