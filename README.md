@@ -23,7 +23,7 @@
 
 <p>Как решала(-а): Агрегировала сырые данные, чтобы получить сводные показатели для расчета юнит-экономики. Рассчитала показатели Retention, LTR, CAC и Fixed costs, маржинальность. Расчитала какие необходимо внести изменения в показатели, чтобы выйти на маржинальность 25%
 
-> <a [href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x"> Ссылка на проект](https://docs.google.com/spreadsheets/d/1mBuNMJ2KZyPHqt0LQIIxnq0En03MsUmlQ_immv2bYMY/edit?usp=sharing)</a>
+> [href="https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x"> Ссылка на проект<](https://docs.google.com/spreadsheets/d/1mBuNMJ2KZyPHqt0LQIIxnq0En03MsUmlQ_immv2bYMY/edit?usp=sharing)
 
 <br> 
 <p> Проект 2: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
@@ -35,7 +35,7 @@
 
 <p>Как решала(-а):В из базы данных в помощью SQL-запроса создала таблицу с необходимыми данными для анализа, а именно: проставила каждой покупке свой ранг, который показывает, какой по счету является данная покупка в рамках всех покупок клиента,построила распределение количества первых покупок клиента, а также по всем покупкам клиента с проставленными рангами, далее построила винтажные доходимости, т. е. для каждого партнера рассчитала, какой процент клиентов дошел до второй покупки, до третьей покупки и т. д. Выведите полученные результаты в Excel и сделала визуализацию полученных данных.<p>
   
-> <a [href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект](https://docs.google.com/spreadsheets/d/1C39kbFdyW4gMlBjisbxNR4gdHlFFl4O8/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true)</a>
+[href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект<](https://docs.google.com/spreadsheets/d/1C39kbFdyW4gMlBjisbxNR4gdHlFFl4O8/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true)
 
 <br> 
 <p>Проект 3: Построение витрины для модели машинного обучения в банке </p> 
@@ -43,8 +43,8 @@
   
 <p>Как решала(-а):Написала скрипт, который сделает витрину с необходимыми полями и параметрами.<p>
 
-> <a[ href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект](https://metabase.sky.pro/question/76684)</a>
-> <a[ href="https://docs.google.com/spreadsheets/d/17gocbIKC_t9fHRf8TeuYysv7cbJ3reXj/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true</a>
+[ href="https://drive.google.com/drive/folders/1QOk5AAh6x7jK_yHgfKI2sUFYR7AWUi5u">Ссылка на проект<](https://metabase.sky.pro/question/76684)
+https://docs.google.com/spreadsheets/d/17gocbIKC_t9fHRf8TeuYysv7cbJ3reXj/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true
 
 
 
@@ -57,7 +57,7 @@
 
 <p>Как решала(-а): В из базы данных в помощью SQL-запроса создала таблицу с необходимыми данными для анализа, а именно: узнала, когда была первая транзакция для каждого студента, нашла все изменения балансов, связанные с успешными транзакциями, далее нашла изменения балансов из-за прохождения уроков, создала CTE для хранения кумулятивной суммы количества пройденных уроков, создала CTE с вычисленными балансами каждого студента. Далее создала визуализацию итогового результата и написала выводы из получившейся визуализации.<p>
 
-> <a[ href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект](https://docs.google.com/spreadsheets/d/1wg2t9x4ubTqCuQ5qHl-khgtiHmuXNhPV/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true)</a>
+[ href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект<](https://docs.google.com/spreadsheets/d/1wg2t9x4ubTqCuQ5qHl-khgtiHmuXNhPV/edit?usp=sharing&ouid=109423124737159203615&rtpof=true&sd=true)
 
 
 ## Контактная информация
